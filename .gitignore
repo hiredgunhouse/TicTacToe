@@ -1,0 +1,8 @@
+.vs/
+TicTacToe.Tests.Unit/bin/
+TicTacToe.Tests.Unit/obj/
+TicTacToe/bin/
+TicTacToe/obj/
+packages/
+TicTacToe.ncrunchsolution.user
+_NCrunch_TicTacToe/TicTacToe.crunchsolution.cache
