@@ -1,10 +1,11 @@
 TicTacToe
 =========
 
+[![Build status](https://ci.appveyor.com/api/projects/status/euepqdmj43tn5mec?svg=true)](https://ci.appveyor.com/project/PiotrOwsiak/tictactoe)
+
 This is a TDD attempt to implement Tic-Tac-Toe (https://en.wikipedia.org/wiki/Tic-tac-toe).
 
-Rules
------
+###Rules:
 X always goes first.  
 Players alternate placing Xs and Os on the board until either:
 One player has three in a row, horizontally, vertically or diagonally  
